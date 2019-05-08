@@ -1,0 +1,14 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MONGO_PORT" value="27017" />
+    <macro name="PGDATABASE" value="s1" />
+    <macro name="PG_HOST" value="pg" />
+    <macro name="RABBIT_HOST" value="localhost" />
+    <macro name="RABBIT_PORT" value="5672" />
+    <macro name="SYMFONY__ENV__MONGO__HOST" value="mongo" />
+    <macro name="SYMFONY__ENV__RABBIT__HOST" value="lb" />
+    <macro name="SYMFONY__ENV__RABBIT__PORT" value="5672" />
+    <macro name="SYMFONY__LOGS_DIR" value="/var/log/symfony" />
+    <macro name="TEST_TOKEN" value="9999" />
+  </component>
+</application>

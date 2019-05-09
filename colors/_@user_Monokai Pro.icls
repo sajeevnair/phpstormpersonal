@@ -3,7 +3,7 @@
     <property name="created">2018-10-22T10:50:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-05-08T11:40:45</property>
+    <property name="modified">2019-05-08T18:02:37</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <colors>
@@ -31,7 +31,6 @@
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="FILESTATUS_UNKNOWN" value="f59762" />

@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="xdebug_remote_host" type="ARCHIVE" />
-      <mapping pattern="tests" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

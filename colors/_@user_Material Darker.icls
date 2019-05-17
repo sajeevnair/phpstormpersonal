@@ -4,18 +4,9 @@
     <property name="created">2018-10-18T16:07:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-11-23T11:35:46</property>
+    <property name="modified">2019-05-17T12:45:03</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -1389,7 +1380,7 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">

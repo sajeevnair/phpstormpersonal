@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="xdebug_remote_host" type="ARCHIVE" />
-      <mapping pattern="tests" type="PLAIN_TEXT" />
-      <mapping pattern="wsdl-www-data-0f9dc18b6be80e0e325913e4ca1e08700a" type="XML" />
-    </extensionMap>
-  </component>
-</application>

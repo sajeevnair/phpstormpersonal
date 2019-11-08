@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt r" />

@@ -2,7 +2,7 @@
   <component name="PathMacrosImpl">
     <macro name="MONGO_PORT" value="27017" />
     <macro name="PGDATABASE" value="s1" />
-    <macro name="PG_HOST" value="172.18.0.3" />
+    <macro name="PG_HOST" value="pg" />
     <macro name="RABBIT_HOST" value="localhost" />
     <macro name="RABBIT_PORT" value="5672" />
     <macro name="SYMFONY__ENV__MONGO__HOST" value="mongo" />

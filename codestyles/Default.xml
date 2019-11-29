@@ -19,7 +19,6 @@
   </editorconfig>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
